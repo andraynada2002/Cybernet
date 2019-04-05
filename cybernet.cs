@@ -86,7 +86,10 @@ public class cybernet;
     //Cybernet type = Info Net
 	//Cybernet repaired Info Net
 	//Cybernet repaired noise
+	//Cybernet type = Hotspot
+	//Cybernet repaired Hotspot
 }
+
 
 
 
