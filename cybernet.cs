@@ -88,7 +88,17 @@ public class cybernet;
 	//Cybernet repaired noise
 	//Cybernet type = Hotspot
 	//Cybernet repaired Hotspot
+	//Cybernet repaired cybernetics
+	//Cybernet type = cybernetics
+	//Cybernet type = core
+	//Cybernet type = shell
+	//Cybernet repaired core
+	//Cybernet repaired shell
+	//Cybernet type = botnet
+	//Cybernet repaired botnet
 }
+
+
 
 
 
