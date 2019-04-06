@@ -96,7 +96,9 @@ public class cybernet;
 	//Cybernet repaired shell
 	//Cybernet type = botnet
 	//Cybernet repaired botnet
+	//Cybernet fixed and repaired DDOS
 }
+
 
 
 
