@@ -1,6 +1,7 @@
 string Filename = @"cybernet.cs"
 class cybernet;
 public class cybernet;
+debug.cybernet();
 {
 	//Cybernet type = Net
 	//Cybernet type = Wi-Fi 
@@ -98,7 +99,11 @@ public class cybernet;
 	//Cybernet repaired botnet
 	//Cybernet fixed and repaired DDOS
 	//Cybernet fixed and repaired DDOS attacks
+	//Create virtual executable application = @"cybernet.exe"
+	//Filename random directory = @"cybernet.exe"
 }
+
+
 
 
 
